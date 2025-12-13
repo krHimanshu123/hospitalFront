@@ -14,6 +14,7 @@ export default function Navbar() {
             <li><Link to="/signup">Register</Link></li>
           </>
         )}
+        
         {isLoggedIn && (
           <>
             <li><Link to="/dashboard">Dashboard</Link></li>
