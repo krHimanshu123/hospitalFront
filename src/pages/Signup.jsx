@@ -19,6 +19,7 @@ export default function Signup() {
   };
 
   return (
+    
     <div className="auth-container">
       <div className="auth-box">
         <h2>Register</h2>
