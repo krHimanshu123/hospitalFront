@@ -26,6 +26,7 @@ export default function Dashboard() {
           <li>Inventory</li>
         </ul>
       </aside>
+      
       <main className="content">
         <h2>Hello, {username}</h2>
         <p>This is your hospital dashboard overview.</p>
